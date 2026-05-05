@@ -1,1 +1,21 @@
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+bin/
+obj/
 
+# Python (Arquivos temporários)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code e Configurações de Sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Dados e Logs (Opcional, mas recomendado para Data Science)
+*.log
+*.sqlite
