@@ -1,79 +1,79 @@
 {
-    "receitas": [
+    "Receitas": [
         {
-            "titulo": "Bolo de Chocolate",
-            "tempo_preparo": "45 minutos",
-            "porcoes": 8,
-            "ingredientes": [
+            "Titulo": "Bolo de Chocolate",
+            "Tempo de Preparo": "45 minutos",
+            "Porcoes": 8,
+            "Ingredientes": [
                 {
-                    "ingrediente": "Farinha de Trigo",
-                    "quantidade": "2 xícaras"
+                    "Ingrediente": "Farinha de Trigo",
+                    "quantidade": "2 xicaras"
                 },
                 {
-                    "ingrediente": "Açúcar",
-                    "quantidade": "1 xícara"
+                    "Ingrediente": "Açucar",
+                    "quantidade": "1 xicaras"
                 },
                 {
-                    "ingrediente": "Ovos",
-                    "quantidade": "3 xícaras"
+                    "Ingrediente": "Ovos",
+                    "quantidade": "3 xicaras"
                 },
                 {
-                    "ingrediente": "Leite",
-                    "quantidade": "1 xícara"
+                    "Ingrediente": "Leite",
+                    "quantidade": "1 xicaras"
                 },
                 {
-                    "ingrediente": "Manteiga",
-                    "quantidade": "1/2 xícara"
+                    "Ingrediente": "Manteiga",
+                    "quantidade": "1/2 xicaras"
                 }
             ]
         },
         {
-            "titulo": "Salada Caesar",
-            "tempo_preparo": "20 minutos",
-            "porcoes": 4,
-            "ingredientes": [
+            "Titulo": "Salada Caesar",
+            "Tempo de Preparo": "20 minutos",
+            "Porcoes": 4,
+            "Ingredientes": [
                 {
-                    "ingrediente": "Alface romana",
-                    "quantidade": "1 cabeça"
+                    "Ingrediente": "Alface Romana",
+                    "quantidade": "2 cabeça"
                 },
                 {
-                    "ingrediente": "Croutons",
-                    "quantidade": "1 xícara"
+                    "Ingrediente": "Croutons",
+                    "quantidade": "1 xicaras"
                 },
                 {
-                    "ingrediente": "Queijo parmesão",
-                    "quantidade": "1/2 xícara"
+                    "Ingrediente": "Queijo Parmesão",
+                    "quantidade": "1/2 xicaras"
                 },
                 {
-                    "ingrediente": "Molho caesar",
-                    "quantidade": "1/4 xícara"
+                    "Ingrediente": "Molho Caesar",
+                    "quantidade": "1/4 xicaras"
                 }
             ]
         },
         {
-            "titulo": "Pasta ao Pesto",
-            "tempo_preparo": "30 minutos",
-            "porcoes": 2,
-            "ingredientes": [
+            "Titulo": "Pasta ao Pesto",
+            "Tempo de Preparo": "30 minutos",
+            "Porcoes": 2,
+            "Ingredientes": [
                 {
-                    "ingrediente": "Massa",
+                    "Ingrediente": "Massa",
                     "quantidade": "200g"
                 },
                 {
-                    "ingrediente": "Manjericão fresco",
-                    "quantidade": "1/2 xícara"
+                    "Ingrediente": "Manjericão Fresco",
+                    "quantidade": "1/2 xicaras"
                 },
                 {
-                    "ingrediente": "Azeite de oliva",
-                    "quantidade": "1/3 xícara"
+                    "Ingrediente": "Azeite de Oliva",
+                    "quantidade": "1/3 xicaras"
                 },
                 {
-                    "ingrediente": "Nozes",
-                    "quantidade": "1/4 xícara"
+                    "Ingrediente": "Nozes",
+                    "quantidade": "1/4 xicaras"
                 },
                 {
-                    "ingrediente": "Queijo parmesão",
-                    "quantidade": "1/4 xícara"
+                    "Ingrediente": "Queijo Parmesão",
+                    "quantidade": "1/4 xicaras"
                 }
             ]
         }
