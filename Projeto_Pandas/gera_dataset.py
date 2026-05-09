@@ -69,3 +69,13 @@ print(df_lojas)
 print(df_produtos)
 print(df_compras)
 
+
+df_compras.to_csv(pasta_dataset /"compras.csv", decimal=",",sep=";")
+df_lojas.to_csv(pasta_dataset /"lojas.csv", decimal=",",sep=";")
+df_produtos.to_csv(pasta_dataset /"produtos.csv", decimal=",",sep=";")
+
+df_compras.to_excel(pasta_dataset / "compras.xlsx")
+df_lojas.to_excel(pasta_dataset / "lojas.xlsx")
+df_produtos.to_excel(pasta_dataset / "produtos.xlsx")
+
+
